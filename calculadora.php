@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form method="post" action="resultado.php">
+    <form method="post" action="resultadocalculadora.php">
 
     <input type="number" name="numero1">
     <input type="number" name="numero2">
